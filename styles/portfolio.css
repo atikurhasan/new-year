@@ -162,11 +162,12 @@ nav img {
 .image-text {
     font-weight: 700;
     font-size: 40px;
-    background-image: url('../images/watch.png');
+    background-image: url('../images/watch.png'), url(../images/gradient3.png);
     padding: 150px 200px;
     background-repeat: no-repeat;
     background-position: center;
     color: white;
+    background-blend-mode: overlay;
 }
 /* contact */
 
